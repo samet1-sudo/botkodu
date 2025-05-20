@@ -6,9 +6,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 # Giriş bilgilerin
-USERNAME = "gungorsametzeynep@gmail.com"
+USERNAME = "sametgungor767@gmail.com"
 PASSWORD = "discord1234"
-EPISODE_URL = "https://animecix.net/titles/8203/detective-conan/season/1/episode/485"
+EPISODE_URL = "https://anm.cx/titles/66/one-piece/season/1/episode/543"
 
 # Tarayıcı ayarları
 options = webdriver.ChromeOptions()
@@ -74,7 +74,7 @@ except Exception as e:
 try:
     print("⏳ 5 dakikada bir 'Sonraki Bölüm'e geçilecek.")
     while True:
-        time.sleep(300)  # 5 dakika bekle (300 saniye)
+        time.sleep(180)  # 5 dakika bekle (300 saniye)
 
         try:
             next_button = WebDriverWait(driver, 10).until(
