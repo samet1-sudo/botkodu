@@ -74,7 +74,7 @@ except Exception as e:
 try:
     print("⏳ 5 dakikada bir 'Sonraki Bölüm'e geçilecek.")
     while True:
-        time.sleep(180)  # 5 dakika bekle (300 saniye)
+        time.sleep(150)  # 5 dakika bekle (300 saniye)
 
         try:
             next_button = WebDriverWait(driver, 10).until(
