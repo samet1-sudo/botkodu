@@ -8,7 +8,7 @@ import time
 # Giriş bilgilerin
 USERNAME = "sametgungor767@gmail.com"
 PASSWORD = "discord1234"
-EPISODE_URL = "https://anm.cx/titles/7490/naruto-shippuuden/season/1/episode/500"
+EPISODE_URL = "https://anm.cx/titles/7490/naruto-shippuuden/season/1/episode/171"
 
 # Tarayıcı ayarları
 options = webdriver.ChromeOptions()
