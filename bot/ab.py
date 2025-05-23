@@ -8,7 +8,7 @@ import time
 # Giriş bilgilerin
 USERNAME = "sametgungor767@gmail.com"
 PASSWORD = "discord1234"
-EPISODE_URL = "https://anm.cx/titles/66/one-piece/season/1/episode/191"
+EPISODE_URL = "https://anm.cx/titles/82/bleach/season/1/episode/366"
 
 # Tarayıcı ayarları
 options = webdriver.ChromeOptions()
