@@ -6,9 +6,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 # Giriş bilgilerin
-USERNAME = "sametgungor767@gmail.com"
-PASSWORD = "discord1234"
-EPISODE_URL = "https://anm.cx/titles/82/bleach/season/1/episode/366"
+USERNAME = ""
+PASSWORD = ""
+EPISODE_URL = ""
 
 # Tarayıcı ayarları
 options = webdriver.ChromeOptions()
